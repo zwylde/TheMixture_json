@@ -1,23 +1,26 @@
 {
-  "wallpapers": [
-    {
-      "author": "Darryl Dillon",
-      "url": "https://github.com/zwylde/TheMixture_json/blob/master/wall1.jpg",
-      "name": "wall1"
-                --> no thumbUrl"
-    },
-    {
-       "author": "Darryl Dillon",
-       "url": "https://github.com/zwylde/TheMixture_json/blob/master/wall2.jpg",
-       "name": "wall2"
-                --> no thumbUrl
-    },
-    {
-       "author": "Darryl Dillon",
-       "url": "https://github.com/zwylde/TheMixture_json/blob/master/wall3.jpg",
-       "name": "wall3"
-                --> no thumbUrl
-    }
-  ]
+    "Wallpapers":
+        [
+	    {
+		"author": "Taken from gadgetraid",
+		"url": "https://github.com/zwylde/TheMixture_json/blob/master/wall1.jpg",
+		"thumbUrl": "https://github.com/zwylde/TheMixture_json/blob/master/wall1.jpg",
+		"name": "wall1"
+
+	    },
+	    {
+        "author": "Taken from gadgetraid",
+		"url": "https://github.com/zwylde/TheMixture_json/blob/master/wall2.jpg",
+		"thumbUrl": "https://github.com/zwylde/TheMixture_json/blob/master/wall2.jpg",
+		"name": "wall2"
+	    }
+        ]        
+		"author": "Taken from gadgetraid",
+		"url": "https://github.com/zwylde/TheMixture_json/blob/master/wall3.jpg",
+		"thumbUrl": "https://github.com/zwylde/TheMixture_json/blob/master/wall3.jpg",
+		"name": "wall3"
+	    }
+        ]
+		
 }
 
